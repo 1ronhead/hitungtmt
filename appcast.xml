@@ -3,7 +3,7 @@
     <channel>
         <title>Hitung TMT Unpublished</title>
         <item>
-            <title>Version 2.7.8</title>
+            <title>Version 1.0.24</title>
             <description>Ini Uji Coba Update Play Store</description>
             <pubDate>Tue, 04 Mar 2025 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.ichtiartech.perhitungan_pkt_kgb" sparkle:version="2.7.0" sparkle:os="android"/>
